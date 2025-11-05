@@ -1,3 +1,5 @@
 My name is Nikhil Raut, IIT Bombay Alumni graduated in 2015. I have 10 Years of Experience if Technology. I started my career at Credit Suisse worked there for 3 years and ventured into startup world founding AI Energy startup. I signed first term sheet with Schneider Electric. Received prize money from Meity Government of India. After that I worked as Tech Lead at Zinier cracked first prize in Hackathon proposing new OR Tool based on open source technologies that reduced yearly SaaS cost from 50K to 0. I worked as Tech Lead for Anthropic on RLHF and SFT data leading cross regional teams to improve Sonnet, Haiku and Opus models on Claude. Currently I am generative AI architech.
 
 I am into generative AI space. I have been Python Django developer since 15 years and currently code in FastAPI. Full stack developer with NextJS experience. Have also worked with Rust, Golang, C, C++, Java.
+
+I have managed technology teams of 10+ cross functional engineers.
